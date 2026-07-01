@@ -15,7 +15,7 @@
 ## Установка
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/DOOMSHOP/claude-installer_ot_-tpbratvpn/main/claude_install.sh)
+bash <(curl -fsSL raw.githubusercontent.com/D00MSH0P/claude-installer_ot_-tpbratvpn/refs/heads/main/claude_install.sh)
 ```
 
 ## Требования
